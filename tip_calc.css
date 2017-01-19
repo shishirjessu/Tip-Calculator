@@ -1,0 +1,14 @@
+body{
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: #EEE9E9;
+}
+
+body, input, button {
+	font-family: "Garamond", sans-serif;
+	font-size: 27pt;
+}
+
+div {
+	margin: 0.5em;
+}
